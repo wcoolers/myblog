@@ -38,9 +38,9 @@ body {
   max-width: 1000px;
   margin: 0 auto;
 }
-.post-container:nth-last-child(odd) {
+/*.post-container:nth-last-child(odd) {
   background-color: #f8f8f8;
-}
+}/*
 #footer {
   background-color: #2f2f2f;
   padding; 50px 0;
